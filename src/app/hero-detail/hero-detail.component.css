@@ -9,6 +9,7 @@ input {
 }
 button {
   margin-top: 20px;
+  margin-right: 10px;
   background-color: #eee;
   padding: 1rem;
   border-radius: 4px;
